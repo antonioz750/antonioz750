@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonioz750
 - 👀 I’m interested in ... PHP web application
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... a Excel Web Application 
+- 💞️ I’m looking to collaborate on ... an Excel Web Application 
 - 📫 How to reach me ... Please contact me here... 
 
 <!---
